@@ -1,10 +1,16 @@
-### Hi there 👋, Norbert Prosniak
+# Norbert Prosniak
 #### Design and Development
 I'm Norbert from Poland. I'm new in word of development, tottaly in love with flutter and modern-design apps. I really enjoy learning new things and I want to become better everyday. 
 
+## Experience
+
 I have experience in WordPress (I'm also photographer, its my hobby, thats why i build simple site for myself: norbertprosniak.eu), C, C++, Java, Phyton, Flutter. All this languages i used to use at my University to build small projects. From today I'll start filling my github with new projects.
 
+## Skills
+ 
 Skills: FLUTTER / C / C++ / JAVA / JS / HTML / CSS
+
+
 
 - 🌱 I’m currently learning Flutter 
 - 🤔 I’m looking for help with start my first job 

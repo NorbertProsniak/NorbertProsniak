@@ -4,7 +4,7 @@ I'm Norbert from Poland. I'm new in world of development, totally  in love with 
 
 ## Experience
 
-I have experience in WordPress (I'm also photographer, its my hobby, thats why i build simple site for myself: norbertprosniak.eu), C, C++, Java, Phyton, Flutter. All this languages i used to use at my University to build small projects. From today I'll start filling my github with new projects.
+I have experience in WordPress (I'm also a photographer, it's my hobby, thats why i build simple site for myself: norbertprosniak.eu), C, C++, Java, Phyton, Flutter. All this languages i used to use at my University to build small projects. From today I'll start filling my github with new projects.
 
 ## Skills
  

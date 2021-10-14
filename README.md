@@ -8,7 +8,7 @@ I have experience in WordPress (I'm also photographer, its my hobby, thats why i
 
 ## Skills
  
-Skills: FLUTTER / C / C++ / JAVA / JS / HTML / CSS
+FLUTTER / C / C++ / JAVA / JS / HTML / CSS
 
 
 

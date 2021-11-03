@@ -1,5 +1,4 @@
 # Norbert Prosniak
-#### Design and Development
 I'm Norbert from Poland. I'm new in world of development, totally  in love with flutter and modern design apps. I enjoy learning new things and I want to become better everyday. 
 
 ## Experience

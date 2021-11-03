@@ -13,7 +13,6 @@ FLUTTER / C / C++ / JAVA / JS / HTML / CSS
 
 
 - 🌱 I’m currently learning Flutter 
-- 🤔 I’m looking for help with start my first job 
 - 📫 How to reach me: norbertprosniak@gmail.com 
 _______________________
 
